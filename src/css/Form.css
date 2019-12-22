@@ -1,0 +1,8 @@
+
+.next_button {
+    width: 150px;
+    height: 60px;
+    box-shadow: 0 0 50px rgba(29, 86, 158, 0.2);
+    border: 2px solid #0072ff;
+    background-color: #ffffff;
+}

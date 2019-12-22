@@ -1,0 +1,178 @@
+
+.personal_info {
+    background-image: url("../images/Rectangle_758.png");
+    height: 636px;
+    width: 960px;
+    box-shadow: 0 0 50px rgba(29,86,158,0.2);
+    margin-left:auto ;
+    margin-right: auto;
+}
+input {
+    width: 380px;
+    height: 40px;
+    border: 1px solid #0072ff;
+    background-color: white;
+}
+.detail {
+    height: 14px;
+    color: #2a3640;
+    font-family: Assistant;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26.25px;
+    width: 64px;
+    text-align: initial;
+}
+.supplier_name{
+    position: absolute;
+}
+.supplier_name input{
+    position: absolute;
+    top: 50px;
+    right: 1px;
+
+}
+.supplier_name div {
+    position: absolute;
+    top: 22px;
+}
+.supplier_number{
+    position: absolute;
+}
+.supplier_number input{
+    position: absolute;
+    top: 143px;
+    right: 1px;
+
+}
+.supplier_number div {
+    position: absolute;
+    top: 112px;
+}
+.goods_origin{
+    position: absolute;
+}
+.goods_origin .dd{
+    position: absolute;
+    top: 50px;
+    right: 470px;
+    width: 380px;
+    height: 40px;
+    border: 1px solid #0072ff;
+    background-color: white;
+}
+.goods_origin div {
+    position: absolute;
+    top: 22px;
+    right: 470px;
+}
+.address{
+    position: absolute;
+}
+.address input{
+    position: absolute;
+    top: 143px;
+    right: 470px;
+}
+.address div {
+    position: absolute;
+    top: 112px;
+    right: 470px;
+}
+.supplier_info {
+    position: relative;
+    right: 54px;
+    top: 25px;
+
+}
+.full_name{
+    position: absolute;
+}
+.full_name input{
+    position: absolute;
+    top: 50px;
+}
+.full_name div{
+    position: absolute;
+    top: 19px;
+    right: -1px;
+}
+.id {
+    position: absolute;
+}
+.id input{
+    position: absolute;
+    top: 50px;
+    right: 470px;
+}
+.id div{
+    position: absolute;
+    top: 19px;
+    right: 470px;
+}
+.email{
+    position: absolute;
+}
+.email input{
+    position: absolute;
+    top: 144px;
+}
+.email div{
+    position: absolute;
+    top: 112px;
+    right: -1px;
+}
+.mobile_phone{
+    position: absolute;
+}
+.mobile_phone input{
+    position: absolute;
+    top: 144px;
+    right: 470px;
+}
+.mobile_phone div{
+    position: absolute;
+    top: 112px;
+    right: 470px;
+}
+.phone{
+    position: absolute;
+}
+.phone input{
+    position: absolute;
+    top: 240px;
+}
+.phone div{
+    position: absolute;
+    top: 208px;
+    right: -1px;
+}
+.fax{
+    position: absolute;
+}
+.fax input{
+    position: absolute;
+    top: 241px;
+    right: 470px;
+}
+.fax div{
+    position: absolute;
+    top: 208px;
+    right: 470px;
+}
+
+.company_contact {
+    position: relative;
+    right: 55px;
+    top: 297px;
+  
+}
+.section_head{
+    width: 99px;
+    height: 19px;
+    color: #0072ff;
+    font-family: Assistant;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 14.46px;
+}
